@@ -21,22 +21,9 @@ Este é o **JonKenPo**, um jogo clássico de **Pedra, Papel e Tesoura** desenvol
 
 ### Tela Inicial
 <div align="center">
-    <img src="caminho/para/imagem1.png" alt="Tela Inicial" width="600">
+    <img src="https://github.com/Jonemanuel/JonKenPo-Pedra-Papel-e-Tesoura-/blob/master/readme/Captura%20de%20tela%20de%202024-11-20%2000-22-18.png?raw=true" alt="Tela Inicial" width="600">
 </div>
 
----
-
-### Escolha de Jogada
-<div align="center">
-    <img src="caminho/para/imagem2.png" alt="Escolha de Jogada" width="600">
-</div>
-
----
-
-### Resultado da Rodada
-<div align="center">
-    <img src="caminho/para/imagem3.png" alt="Resultado da Rodada" width="600">
-</div>
 
 ---
 
